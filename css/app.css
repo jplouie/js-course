@@ -29,3 +29,13 @@
   display: inline-block;
   border-radius: 50%;
 }
+
+.redKing {
+  background-image: url('http://i307.photobucket.com/albums/nn284/jamescoop1010/crown-logo-ret.gif');
+  background-size: cover;
+}
+
+.whiteKing {
+  background-image: url('http://sites.psu.edu/cejswain/wp-content/uploads/sites/13034/2014/06/crown_11.jpg');
+  background-size: cover;
+}

@@ -9,6 +9,14 @@ var charToNum = {
   g: 6,
   h: 7
 }
+var a = 'a';
+var b = 'b';
+var c = 'c';
+var d = 'd';
+var e = 'e';
+var f = 'f';
+var g = 'g';
+var h = 'h';
 
 var displayBoard = function () {
   var column = [0, 1, 2, 3, 4, 5, 6, 7];
